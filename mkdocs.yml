@@ -2,7 +2,7 @@ site_name: Jedis
 repo_name: Jedis
 site_author: Redis, Inc.
 site_description: Jedis is a Redis client for the JVM.
-repo_url: https://github.com/redis/jedis
+repo_url: https://github.com/kuanjun-song/jedis
 remote_branch: gh-pages
 
 theme:
